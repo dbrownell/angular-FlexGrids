@@ -11,7 +11,6 @@
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
     "core-js": "2",
-    "flexgrid": "^4.1.0",
     "fontawesome": "^5.6.3",
     "primeflex": "^1.0.0",
     "rxjs": "^6.5.4",
