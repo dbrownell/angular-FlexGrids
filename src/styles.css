@@ -5,3 +5,9 @@
 .rbt{
   background-color: tan;
 }
+.marg-left{
+  margin-left: 0.5em !important; 
+}
+.marg-right{
+   margin-right: 0.5em !important;
+}
